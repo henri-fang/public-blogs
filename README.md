@@ -47,7 +47,9 @@ git clone <repository_url> themes/<theme-name>
 ```shell script
 vi _config.yml
 ```
-> # Extensions
-  ## Plugins: http://hexo.io/plugins/
-  ## Themes: http://hexo.io/themes/
-  theme: <theme-name>
+<pre><code>
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: <theme-name>
+</pre></code>
